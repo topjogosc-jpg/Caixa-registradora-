@@ -1,0 +1,7 @@
+{
+  "name": "SmartPOS - Checkout & Analytics",
+  "description": "Uma calculadora de caixa de supermercado moderna com histórico de transações, gráficos de ganhos diários, mensais e anuais, e insights de IA para o seu negócio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
